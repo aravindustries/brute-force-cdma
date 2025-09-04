@@ -1,6 +1,6 @@
-# CDMA Decoding Figure Walkthrough
+# CDMA Decoding
 
-Step-by-step visuals from filtering and frame sync through Walsh decoding, phase correction, and frequency-offset estimation. Images live in `plots/`.
+Step-by-step visuals from filtering and frame sync through Walsh decoding, phase correction, and frequency-offset estimation.
 
 ---
 
